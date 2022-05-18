@@ -1,0 +1,8 @@
+prefix=/home/enrique/catkin_ws/devel
+
+Name: arlo_mejorado
+Description: Description of arlo_mejorado
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

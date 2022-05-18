@@ -1,0 +1,2 @@
+arlo_mejorado_precision_llantas/arlo_mejorado:arlo_nn_controller:beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/enrique/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/enrique/catkin_ws/install -G Unix Makefiles
